@@ -1,6 +1,6 @@
 - 👋 Hi, I’m M Arya Anggara Gustiana.
-- 👀 I’m interested in Web Development, Mobile Development, and anything about Movies.
-- 🌱 I’m currently learning Mobile Developer and MERN stack.
+- 👀 I’m interested in Software Engineering and anything about Movies.
+- 🌱 I’m currently learning about Software Engineering.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me aryagustiana101@gmail.com
 
