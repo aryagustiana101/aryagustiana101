@@ -1,4 +1,4 @@
-- 👋 Hi, I’m M Arya Anggara Gustiana.
+- 👋 Hi, I’m Arya Gustiana.
 - 👀 I’m interested in Software Engineering and anything about Movies.
 - 🌱 I’m currently learning about Software Engineering.
 - 💞️ I’m looking to collaborate on anything.
